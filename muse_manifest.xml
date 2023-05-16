@@ -1,0 +1,228 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="EVGHOCKEY.RU" resolutions="1x" timestamp="1672397411493">
+  <folder name="css">
+    <file name="site_global.css" crc="4212713519"/>
+    <file name="index.css" crc="4132756351" ref="index"/>
+    <file name="thanks.css" crc="471207515" ref="thanks"/>
+  </folder>
+  <folder name="fonts">
+    <file name="circe-extrabold.woff" crc="61458446"/>
+    <file name="circe-extrabold.eot" crc="4058651633"/>
+    <file name="circe-extrabold.svg" crc="4185795159"/>
+    <file name="circe-bold.woff" crc="305179964"/>
+    <file name="circe-bold.eot" crc="406547791"/>
+    <file name="circe-bold.svg" crc="159322542"/>
+    <file name="circe.woff" crc="525727487"/>
+    <file name="circe.eot" crc="3962547407"/>
+    <file name="circe.svg" crc="342743809"/>
+  </folder>
+  <folder name="assets">
+    <file name="kisspng-green-leaf-b.webp" crc="4119652990" seo="true" mt="1645287614000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>index"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>index"/>
+    <file name="form_process.php" crc="260214869" ref="phone>index"/>
+    <file name="form-u4812.php" crc="4116010422" ref="phone>index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="form-u4051.php" crc="518559416" ref="phone>index"/>
+    <file name="form-u4157.php" crc="331845581" ref="phone>index"/>
+    <file name="form-u4366.php" crc="3971794137" ref="phone>index"/>
+    <file name="form-u3098.php" crc="152448539" ref="phone>index"/>
+    <file name="form-u4529.php" crc="4124446152" ref="phone>index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="form-u5015.php" crc="4278961033" ref="index"/>
+    <file name="form-u5119.php" crc="4219627587" ref="index"/>
+    <file name="form-u5453.php" crc="493478457" ref="index"/>
+    <file name="form-u5492.php" crc="465046438" ref="index"/>
+    <file name="form-u5339.php" crc="311458092" ref="index"/>
+    <file name="form-u3508.php" crc="137672630" ref="index"/>
+    <file name="form-u3621.php" crc="504033258" ref="index"/>
+    <file name="form-u3735.php" crc="423369928" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg-mob-min.jpg" crc="4164056752" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="viber-whtasup-telegram-min-crop-u2400.png" crc="3836910610" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk3.png" crc="511770379" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="item-1 (2)-u2398.png" crc="453056545" ref="phone>index"/>
+    <file name="zvezda-min.png" crc="3818067990" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-проверено-48.png" crc="3876822266" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main02-min (1)-u2674.png" crc="3828853767" ref="phone>index"/>
+    <file name="phone-popup-ico-u4825.png" crc="3866586477" ref="phone>index"/>
+    <file name="user-popup-ico-u4810.png" crc="4080845662" ref="phone>index"/>
+    <file name="form15_close-u4798.png" crc="3791044514" ref="phone>index"/>
+    <file name="form15_close-u4798-r.png" crc="4065685410" ref="phone>index"/>
+    <file name="min-u2396.png" crc="241300961" ref="phone>index"/>
+    <file name="plashka-min (1).jpg" crc="241281725" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="01-min-u2725-fr.jpg" crc="3988937843" ref="phone>index"/>
+    <file name="02-min-u2821-fr.jpg" crc="450685759" ref="phone>index"/>
+    <file name="phone-popup-ico-u4064.png" crc="3866586477" ref="phone>index"/>
+    <file name="user-popup-ico-u4049.png" crc="4080845662" ref="phone>index"/>
+    <file name="form15_close-u4067.png" crc="3791044514" ref="phone>index"/>
+    <file name="form15_close-u4067-r.png" crc="4065685410" ref="phone>index"/>
+    <file name="04-min-u3382-fr.jpg" crc="491092309" ref="phone>index"/>
+    <file name="05-min.jpg" crc="4056546268" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-popup-ico-u4172.png" crc="3866586477" ref="phone>index"/>
+    <file name="user-popup-ico-u4170.png" crc="4080845662" ref="phone>index"/>
+    <file name="form15_close-u4146.png" crc="3791044514" ref="phone>index"/>
+    <file name="form15_close-u4146-r.png" crc="4065685410" ref="phone>index"/>
+    <file name="03-min.jpg" crc="3880413754" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-popup-ico-u4364.png" crc="3866586477" ref="phone>index"/>
+    <file name="user-popup-ico-u4362.png" crc="4080845662" ref="phone>index"/>
+    <file name="form15_close-u4389.png" crc="3791044514" ref="phone>index"/>
+    <file name="form15_close-u4389-r.png" crc="4065685410" ref="phone>index"/>
+    <file name="1-u15857-u4483.png" crc="442511489" ref="phone>index"/>
+    <file name="shlem-min-u3245.png" crc="183343898" ref="phone>index"/>
+    <file name="konk-min-u3247.png" crc="66388443" ref="phone>index"/>
+    <file name="phone-popup-ico-u3096.png" crc="3866586477" ref="phone>index"/>
+    <file name="image4.png" crc="101739865" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg001-min.jpg" crc="4249275065" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ya.png" crc="4143371654" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ozt.jpg" crc="336123605" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 682x1670-crop-u3182.jpg" crc="224688990" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-popup-ico-u4542.png" crc="3866586477" ref="phone>index"/>
+    <file name="user-popup-ico-u4544.png" crc="4080845662" ref="phone>index"/>
+    <file name="form15_close-u4552.png" crc="3791044514" ref="phone>index"/>
+    <file name="form15_close-u4552-r.png" crc="4065685410" ref="phone>index"/>
+    <file name="34.png" crc="11189523" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo_2022-12-08_04-00-07-min.jpg" crc="377732661" ref="phone>thanks:index:thanks">
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="item-1 (2)-u1656.png" crc="453056545" ref="index"/>
+    <file name="item-1 (2)-u1685.png" crc="453056545" ref="index"/>
+    <file name="item-1 (2)-u2015.png" crc="453056545" ref="index"/>
+    <file name="viber-whtasup-telegram-min-crop-u1606.png" crc="382234294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maps-and-flags-u1632.png" crc="324374124" ref="index"/>
+    <file name="maps-and-flags-u1622.png" crc="3845550193" ref="index"/>
+    <file name="888-min-min.png" crc="3777117444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="main01-min-u1730.png" crc="421338370" ref="index"/>
+    <file name="main02-min-u1737.png" crc="4026904960" ref="index"/>
+    <file name="1-u15857-u1935.png" crc="3773643287" ref="index"/>
+    <file name="01-min.jpg" crc="393673683" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="02-min.jpg" crc="34387548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-popup-ico-u5028.png" crc="3866586477" ref="index"/>
+    <file name="user-popup-ico-u5030.png" crc="4080845662" ref="index"/>
+    <file name="form15_close-u5004.png" crc="3791044514" ref="index"/>
+    <file name="form15_close-u5004-r.png" crc="4065685410" ref="index"/>
+    <file name="04-min.jpg" crc="355694862" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05 ccm supertacks as4 pro.jpg" crc="4217737278" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-popup-ico-u5132.png" crc="3866586477" ref="index"/>
+    <file name="user-popup-ico-u5134.png" crc="4080845662" ref="index"/>
+    <file name="form15_close-u5108.png" crc="3791044514" ref="index"/>
+    <file name="form15_close-u5108-r.png" crc="4065685410" ref="index"/>
+    <file name="03 ccm jetspeed ft5 pro.jpg" crc="223602795" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-u15857-u2986.png" crc="157811445" ref="index"/>
+    <file name="1-u15857-u2023.png" crc="157811445" ref="index"/>
+    <file name="bg-1.jpg" crc="487606643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shlem-min-u2261.png" crc="3965655182" ref="index"/>
+    <file name="konk-min-u2271.png" crc="4231119436" ref="index"/>
+    <file name="вставленное изображение 1206x1829.jpg" crc="3766069616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 1201x1370-crop-u1997.jpg" crc="3931436514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 197x90.jpg" crc="3920917402" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg001-min-crop-u4741.jpg" crc="4187907378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg001-min-crop-u4748.jpg" crc="432379660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg002-min-crop-u4755.jpg" crc="4024866569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-popup-ico-u5352.png" crc="3866586477" ref="index"/>
+    <file name="user-popup-ico-u5354.png" crc="4080845662" ref="index"/>
+    <file name="form15_close-u5358.png" crc="3791044514" ref="index"/>
+    <file name="form15_close-u5358-r.png" crc="4065685410" ref="index"/>
+    <file name="phone-popup-ico-u3506.png" crc="3866586477" ref="index"/>
+    <file name="user-popup-ico-u3504.png" crc="4080845662" ref="index"/>
+    <file name="form15_close-u3524.png" crc="3791044514" ref="index"/>
+    <file name="form15_close-u3524-r.png" crc="4065685410" ref="index"/>
+    <file name="phone-popup-ico-u3636.png" crc="3866586477" ref="index"/>
+    <file name="user-popup-ico-u3634.png" crc="4080845662" ref="index"/>
+    <file name="form15_close-u3639.png" crc="3791044514" ref="index"/>
+    <file name="form15_close-u3639-r.png" crc="4065685410" ref="index"/>
+    <file name="phone-popup-ico-u3733.png" crc="3866586477" ref="index"/>
+    <file name="user-popup-ico-u3748.png" crc="4080845662" ref="index"/>
+    <file name="form15_close-u3720.png" crc="3791044514" ref="index"/>
+    <file name="form15_close-u3720-r.png" crc="4065685410" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4057920145" ref="phone>index"/>
+      <file name="thanks.css" crc="4277304778" ref="phone>thanks"/>
+    </folder>
+    <file name="index.html" crc="36277700" seo="true" mt="1672347338774" redirect="true"/>
+    <file name="thanks.html" crc="4074317483" seo="true" mt="1672217823973" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="536143319" seo="true" mt="1672397366910" redirect="true"/>
+  <file name="thanks.html" crc="332583529" seo="true" mt="1672217816644" redirect="true"/>
+</manifest>
